@@ -2,7 +2,7 @@
 
 # Checks if a file exists or not
 # Usage: ./exists.sh {pathnametofile}
-
+# hi how are you?
 	echo "Please enter the pathname you would like to work with: "
 	read pathname
 
